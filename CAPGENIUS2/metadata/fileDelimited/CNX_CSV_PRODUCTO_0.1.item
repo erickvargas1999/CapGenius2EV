@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:DelimitedFileConnection xmi:id="_6cNvgPCYEfCE0vElLodJcQ" name="CNX_CSV_PRODUCTO" dataPackage="_6cQLwPCYEfCE0vElLodJcQ" Server="Localhost 127.0.0.1" FilePath="C:/Talend/Genius2/ERP/BaseDeDatosERP/PRODUCTO.csv" Encoding="windows-1252" FieldSeparatorValue="&quot;;&quot;" RowSeparatorValue="&quot;\n&quot;" UseHeader="true" HeaderValue="1" FirstLineCaption="true" FieldSeparatorType="Custom UTF8"/>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_6cQLwPCYEfCE0vElLodJcQ" name="default" dataManager="_6cNvgPCYEfCE0vElLodJcQ">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_6cQLwfCYEfCE0vElLodJcQ" id="_MwgbsPCYEfCE0vElLodJcQ" label="PRODUCTO">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_6cQLwvCYEfCE0vElLodJcQ" label="COD_PRODUCTO" length="8" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_6cQLw_CYEfCE0vElLodJcQ" label="DES_PRODUCTO" length="10" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_6cQLxPCYEfCE0vElLodJcQ" label="COD_MARCA" length="3" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_6cQLxfCYEfCE0vElLodJcQ" label="COD_MODELO" length="4" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_6cQLxvCYEfCE0vElLodJcQ" label="COD_COLOR" length="3" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_6cQLx_CYEfCE0vElLodJcQ" label="COD_SUBGRUPO" length="4" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_6cQLyPCYEfCE0vElLodJcQ" label="COD_GRUPO" length="4" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>

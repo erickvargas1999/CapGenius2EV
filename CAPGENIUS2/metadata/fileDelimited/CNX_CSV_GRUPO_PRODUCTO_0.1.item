@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:DelimitedFileConnection xmi:id="_KTaKUPCcEfCE0vElLodJcQ" name="CNX_CSV_GRUPO_PRODUCTO" dataPackage="_KTaKUfCcEfCE0vElLodJcQ" Server="Localhost 127.0.0.1" FilePath="C:/Talend/Genius2/ERP/BaseDeDatosERP/GRUPO_PRODUCTO.csv" Encoding="windows-1252" FieldSeparatorValue="&quot;|&quot;" RowSeparatorValue="&quot;\n&quot;" UseHeader="true" HeaderValue="1" FirstLineCaption="true" FieldSeparatorType="Custom UTF8"/>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_KTaKUfCcEfCE0vElLodJcQ" name="default" dataManager="_KTaKUPCcEfCE0vElLodJcQ">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_KTaKUvCcEfCE0vElLodJcQ" id="_BMQYkPCcEfCE0vElLodJcQ" label="GRUPO_PRODUCTO">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_KTaKU_CcEfCE0vElLodJcQ" label="COD_GRUPO" length="4" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_KTaKVPCcEfCE0vElLodJcQ" label="GRUPO" length="12" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_KTaKVfCcEfCE0vElLodJcQ" label="COD_SUBGRUPO" length="4" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>
