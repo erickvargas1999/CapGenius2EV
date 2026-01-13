@@ -25,4 +25,23 @@
     "version" : "Latest",
     "type" : "routine"
   } ]
+}, {
+  "baseItem" : {
+    "id" : "__UVlIPDREfC2RobIEP00OA",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_6cCwYPCYEfCE0vElLodJcQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_7Vi-4PDSEfC2RobIEP00OA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_6cCwYPCYEfCE0vElLodJcQ - PRODUCTO",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
 } ]
