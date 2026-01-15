@@ -76,6 +76,65 @@
   } ]
 }, {
   "baseItem" : {
+    "id" : "_Jd96wPGGEfCvefYRtmuOhg",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_6cCwYPCYEfCE0vElLodJcQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_7LvgQPCeEfCE0vElLodJcQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_KTZjQPCcEfCE0vElLodJcQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_PzVEwPCeEfCE0vElLodJcQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_Q8VwsPCdEfCE0vElLodJcQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_WnD-UPGOEfCvefYRtmuOhg",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "__dJLYPCbEfCE0vElLodJcQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_6cCwYPCYEfCE0vElLodJcQ - PRODUCTO",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_7LvgQPCeEfCE0vElLodJcQ - MODELO",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_KTZjQPCcEfCE0vElLodJcQ - GRUPO_PRODUCTO",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_PzVEwPCeEfCE0vElLodJcQ - COLOR",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_Q8VwsPCdEfCE0vElLodJcQ - SUB_GRUPO_PRODUCTO",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "__dJLYPCbEfCE0vElLodJcQ - MARCA",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
     "id" : "_QKNNUGZ8EeWm5YvsrIoYzQ",
     "version" : "0.1",
     "type" : "job"
@@ -231,6 +290,25 @@
     "type" : "property"
   }, {
     "id" : "_PzVEwPCeEfCE0vElLodJcQ - COLOR",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_ovPC0PHJEfCqPo5Ajr5e0Q",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_Hcc2MPCaEfCE0vElLodJcQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_WnD-UPGOEfCvefYRtmuOhg",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_Hcc2MPCaEfCE0vElLodJcQ - CLIENTE",
     "version" : "Latest",
     "type" : "schema"
   } ]
